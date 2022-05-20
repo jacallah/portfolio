@@ -13,6 +13,10 @@
     "webpack": "^4.28.3",
     "yarn": "^1.13.0"
   },
+
+  "engines":{
+    "node": "18.1.0"
+  },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",

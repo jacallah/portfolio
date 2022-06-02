@@ -22,12 +22,12 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>IT Security Operations Intern <span>May 2021 - August 2021 </span></h2>
-                        <text> 
+                        <p>
                             • Initiated and completed a corporate wide change - blocked legacy authentication
-                            {"\n"}• Implemented regex email rules to block blackmail scams
-                            {"\n"}• Securely analyzed over 100 potentially malicious phishing tickets
-                            {"\n"}• Tools: Rapid7, Azure Active Directory, Proofpoint, Cherwell, etc.\
-                        </text>
+                            <br></br>• Implemented regex email rules to block blackmail scams
+                            <br></br>• Securely analyzed over 100 potentially malicious phishing tickets
+                            <br></br>• Tools: Rapid7, Azure Active Directory, Proofpoint, Cherwell, etc.
+                        </p>
                       </div>
                     </div>
                   </article>

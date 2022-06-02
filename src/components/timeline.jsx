@@ -38,7 +38,12 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>IT Service Analyst Intern <span>May 2019 - August 2019</span></h2>
-                        <p>Stuff</p>
+                        <p>
+                          • Provided tier two hardware and software tech support for over 1000 systems within the environment
+                          <br></br>• Personally imaged and deployed over 100 new Windows 10 computers to users
+                          <br></br>• Worked heavily with ticket system, PDQ Deploy, Windows Admin Tools, VMWare, DUO, and Microsoft 365
+                          <br></br>• Instructed and taught end-users how to use new and updated software and troubleshoot issues.
+                        </p>
                       </div>
                     </div>
                   </article>
@@ -49,7 +54,13 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Team Lead <span>September 2019 - May 2022</span></h2>
-                        <p>Stuff</p> 
+                        <p>
+                          • 2021 - 2022 - Develop a U-Net convolutional neural network to segment cell adhesions using Python Keras and Tensorflow
+                          <br></br>• 2020 - 2021 - Develop machine learning software that implements sentiment analysis to convert emojis into languages. Sponsored by the Department of Defense
+                          <br></br>• Organize timeline and delegate/collaborate with team
+                          <br></br>• 2019 - 2020 - Oversee Web Development and Internal Application Development
+                          <br></br>• Team worked on creating and implementing a new application for Little Brothers non-profit to improve vehicle tracking - use GitLab/GitHub
+                          <br></br>• Penetration testing (with Burp/Hashcat etc.) and Ticket system in Jira/Confluence</p> 
                       </div>
                     </div>
                   </article>

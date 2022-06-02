@@ -23,9 +23,9 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>IT Security Operations Intern <span>May 2021 - August 2021 </span></h2>
                         <p> • Initiated and completed a corporate wide change - blocked legacy authentication
-                            \n• Implemented regex email rules to block blackmail scams
-                            \n• Securely analyzed over 100 potentially malicious phishing tickets
-                            \n• Tools: Rapid7, Azure Active Directory, Proofpoint, Cherwell, etc.</p>
+                            {"\n"}• Implemented regex email rules to block blackmail scams
+                            {"\n"}\n• Securely analyzed over 100 potentially malicious phishing tickets
+                            {"\n"}\n• Tools: Rapid7, Azure Active Directory, Proofpoint, Cherwell, etc.</p>
                       </div>
                     </div>
                   </article>

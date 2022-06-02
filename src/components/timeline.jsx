@@ -59,7 +59,7 @@ export default class Timeline extends Component {
                           <br></br>• <b>2020 - 2021:</b> Develop machine learning software that implements sentiment analysis to convert emojis into languages. Sponsored by the Department of Defense
                           <br></br>&emsp;• Organize timeline and delegate/collaborate with team
                           <br></br>• <b>2019 - 2020:</b> Oversee Web Development and Internal Application Development
-                          <br></br>&emsp;• Team worked on creating and implementing a new application for Little Brothers non-profit to improve vehicle tracking - use GitLab/GitHub
+                          <br></br>&emsp;• Team worked on creating and implementing a new application for Little Brothers non-profit to improve vehicle &emsp;tracking - use GitLab/GitHub
                           <br></br>&emsp;• Penetration testing (with Burp/Hashcat etc.) and Ticket system in Jira/Confluence</p> 
                       </div>
                     </div>

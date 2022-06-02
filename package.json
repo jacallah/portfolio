@@ -2,7 +2,7 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://jacallah.github.io/Portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "loader-runner": "^4.3.0",

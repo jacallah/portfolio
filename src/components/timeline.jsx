@@ -57,10 +57,10 @@ export default class Timeline extends Component {
                         <p>
                           • <b>2021 - 2022:</b> Develop a U-Net convolutional neural network to segment cell adhesions using Python Keras and Tensorflow
                           <br></br>• <b>2020 - 2021:</b> Develop machine learning software that implements sentiment analysis to convert emojis into languages. Sponsored by the Department of Defense
-                          <br></br>   • Organize timeline and delegate/collaborate with team
+                          <br></br>&emsp;• Organize timeline and delegate/collaborate with team
                           <br></br>• <b>2019 - 2020:</b> Oversee Web Development and Internal Application Development
-                          <br></br>   • Team worked on creating and implementing a new application for Little Brothers non-profit to improve vehicle tracking - use GitLab/GitHub
-                          <br></br>   • Penetration testing (with Burp/Hashcat etc.) and Ticket system in Jira/Confluence</p> 
+                          <br></br>&emsp;• Team worked on creating and implementing a new application for Little Brothers non-profit to improve vehicle tracking - use GitLab/GitHub
+                          <br></br>&emsp;• Penetration testing (with Burp/Hashcat etc.) and Ticket system in Jira/Confluence</p> 
                       </div>
                     </div>
                   </article>
